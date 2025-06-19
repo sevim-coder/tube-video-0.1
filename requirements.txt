@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+openai
+pydub
+moviepy
+Pillow
+google-cloud-texttospeech
