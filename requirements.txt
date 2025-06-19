@@ -2,6 +2,6 @@ requests
 beautifulsoup4
 openai
 pydub
-moviepy
+moviepy==1.0.3
 Pillow
 google-cloud-texttospeech
