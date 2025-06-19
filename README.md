@@ -24,6 +24,8 @@ This project creates themed videos automatically using text, images, and audio f
    ```bash
    pip install -r requirements.txt
    ```
+   The `requirements.txt` pins `moviepy` to version `1.0.3` to avoid
+   import errors with older releases.
 
 ## Usage
 Run the bot from the repository root:
